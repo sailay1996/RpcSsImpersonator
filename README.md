@@ -1,11 +1,16 @@
 # RpcSsImpersonator
+
 Privilege Escalation Via RpcSs svc
+
+You can also use this via Metasploit Framework.
+https://github.com/rapid7/metasploit-framework/pull/14030
 
 1. **Administrator to SYSTEM** 
 
 1. **Network Service Account to SYSTEM**
 
 ![test1](https://github.com/sailay1996/RpcSsImpersonator/blob/master/image.jpg)
+
 
 ##### Based On: <br>
 https://www.tiraniddo.dev/2020/04/sharing-logon-session-little-too-much.html  <br>
